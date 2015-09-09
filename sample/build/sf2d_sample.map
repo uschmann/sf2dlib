@@ -1,0 +1,2026 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+                              main.o (sf2d_init)
+/Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_draw.o)
+                              main.o (sf2d_draw_rectangle)
+/Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o) (GPU_SetDummyTexEnv)
+/Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+                              main.o (sf2d_free_texture)
+/Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(shader.vsh.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o) (shader_vsh_shbin_size)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o) (linearMemAlign)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o) (MemPool::Allocate(MemChunk&, unsigned long, int))
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o) (vramMemAlign)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o) (gfxSet3D)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o) (osConvertVirtToPhys)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o) (GPU_Init)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpuResetSequence.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o) (gpuResetSequenceLength)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o) (shaderInstanceGetUniformLocation)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o) (DVLB_Free)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o) (aptHook)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o) (gspInit)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o) (gxCmdBuf)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+                              main.o (hidScanInput)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o) (irrstScanInput)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o) (rbtree_find)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_init.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o) (rbtree_init)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o) (rbtree_insert)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o) (rbtree_remove)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o) (rbtree_rotate)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o) (__linear_heap)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/3dsx_crt0.o (__system_argc)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o) (__system_retAddr)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(svc.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o) (svcControlMemory)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/3dsx_crt0.o (initSystem)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o) (__get_handle_from_list)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o) (rbtree_node_next)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appExit.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o) (__appExit)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appInit.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o) (__appInit)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(ctru_exit.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o) (__libctru_exit)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appInit.o) (sdmcInit)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appExit.o) (fsExit)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o) (decode_utf8)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o) (utf16_to_utf8)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o) (utf8_to_utf16)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o) (decode_utf16)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf16.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o) (encode_utf16)
+/Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf8.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o) (encode_utf8)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_cos.o)
+                              main.o (cosf)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_sin.o)
+                              main.o (sinf)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-ef_rem_pio2.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_cos.o) (__ieee754_rem_pio2f)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_cos.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_cos.o) (__kernel_cosf)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_rem_pio2.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-ef_rem_pio2.o) (__kernel_rem_pio2f)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_sin.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_cos.o) (__kernel_sinf)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_fabs.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-ef_rem_pio2.o) (fabsf)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_floor.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_rem_pio2.o) (floorf)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_scalbn.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_rem_pio2.o) (scalbnf)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_copysign.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_scalbn.o) (copysignf)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/libgcc.a(_arm_addsubsf3.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o) (__aeabi_ul2f)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-bsearch.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o) (bsearch)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-fini.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o) (__libc_fini_array)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-init.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o) (__libc_init_array)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-malloc.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o) (malloc)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-malloc.o) (_malloc_r)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memcpy.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o) (memcpy)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memset.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o) (memset)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mlock.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o) (__malloc_lock)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-rand.o)
+                              main.o (srand)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strcmp.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o) (strcmp)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strcpy.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o) (strcpy)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strlen.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o) (strlen)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncat.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o) (strncat)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncpy.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o) (strncpy)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-time.o)
+                              main.o (time)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-freer.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-malloc.o) (_free_r)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(iosupport.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o) (setDefaultDevice)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(gettod.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-time.o) (_gettimeofday_r)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(sbrk.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o) (_sbrk_r)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(malloc_vars.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o) (fake_heap_start)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(chdir.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o) (chdir)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(syscall_support.o)
+                              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o) (__syscalls)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(getreent.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-malloc.o) (__getreent)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-impure.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(getreent.o) (_impure_ptr)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strchr.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(iosupport.o) (strchr)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncmp.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(iosupport.o) (strncmp)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strnlen.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(chdir.o) (strnlen)
+/Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strrchr.o)
+                              /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(chdir.o) (strrchr)
+
+Allocating common symbols
+Common symbol       size              file
+
+hidMemHandle        0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+__heapBase          0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+aptEventHandlerThread
+                    0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+hidHandle           0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+gspEventStack       0x1000            /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+gfxBottomFramebuffers
+                    0x8               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+gspSharedMemHandle  0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+__system_argv       0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+hidSharedMem        0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+__system_argc       0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+bottomFramebufferInfo
+                    0x1c              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+__linear_heap       0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+aptParameters       0x1000            /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+aptEventHandlerStack
+                    0x1000            /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+aptuHandle          0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+irrstHandle         0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+aptEvents           0xc               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+gspEventThread      0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+gspEvent            0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+hidEvents           0x14              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+__system_retAddr    0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+gpuCmdBuf           0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+irrstEvent          0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+gspEventCounts      0x1c              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+irrstMemHandle      0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+gfxTopLeftFramebuffers
+                    0x8               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+gfxTopRightFramebuffers
+                    0x8               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+topFramebufferInfo  0x1c              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+gspEvents           0x1c              /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+gpuCmdBufOffset     0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+gfxThreadID         0x1               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+gfxSharedMemory     0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+gspRunEvents        0x1               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+irrstSharedMem      0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+aptStatusMutex      0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+gpuCmdBufSize       0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+gxCmdBuf            0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+aptLockHandle       0x4               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+currentAppId        0x2               /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+
+Discarded input sections
+
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtbegin.o
+ .comment       0x00000000       0x23 citra_img.o
+ .comment       0x00000000       0x23 dice_img.o
+ .comment       0x00000000       0x23 main.o
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_draw.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpuResetSequence.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_init.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appExit.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appInit.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(ctru_exit.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf16.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf8.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_cos.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_sin.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-ef_rem_pio2.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_cos.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_rem_pio2.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_sin.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_fabs.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_floor.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_scalbn.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_copysign.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-bsearch.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-fini.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-init.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-malloc.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memcpy.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memset.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mlock.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-rand.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strcpy.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strlen.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncat.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncpy.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-time.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-freer.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(iosupport.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(gettod.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(sbrk.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(malloc_vars.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(chdir.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(syscall_support.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(getreent.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-impure.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strchr.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncmp.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strnlen.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strrchr.o)
+ .comment       0x00000000       0x23 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtend.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x00100000                . = 0x100000
+                0x00100000                __start__ = .
+
+.text           0x00100000    0x10790
+ *(.crt0)
+ .crt0          0x00100000       0x94 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/3dsx_crt0.o
+                0x00100000                _start
+                0x00100008                __service_ptr
+                0x0010000c                __apt_appid
+                0x00100010                __heap_size
+                0x00100014                __linear_heap_size
+                0x00100018                __system_arglist
+                0x0010001c                __system_runflags
+ *(.init)
+ .init          0x00100094        0xc /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crti.o
+                0x00100094                _init
+ .init          0x001000a0        0xc /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtn.o
+                0x001000ac                . = ALIGN (0x4)
+ *(.text)
+ .text          0x001000ac        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/3dsx_crt0.o
+ .text          0x001000ac        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crti.o
+ .text          0x001000ac      0x108 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtbegin.o
+ .text          0x001001b4        0x0 citra_img.o
+ .text          0x001001b4        0x0 dice_img.o
+ .text          0x001001b4        0x0 main.o
+ .text          0x001001b4      0x75c /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+                0x001003cc                sf2d_init
+                0x001003f4                sf2d_init_advanced
+                0x00100414                sf2d_fini
+                0x00100478                sf2d_set_3D
+                0x00100484                sf2d_start_frame
+                0x00100614                sf2d_end_frame
+                0x0010072c                sf2d_swapbuffers
+                0x001007dc                sf2d_set_vblank_wait
+                0x001007ec                sf2d_get_fps
+                0x001007fc                sf2d_pool_malloc
+                0x00100828                sf2d_pool_memalign
+                0x00100868                sf2d_pool_space_free
+                0x00100880                sf2d_pool_reset
+                0x00100894                sf2d_set_clear_color
+                0x001008a4                sf2d_set_scissor_test
+                0x001008f0                sf2d_get_current_screen
+                0x00100900                sf2d_get_current_side
+ .text          0x00100910      0x7bc /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_draw.o)
+                0x00100910                sf2d_draw_line
+                0x00100ae4                sf2d_draw_rectangle
+                0x00100c98                sf2d_draw_rectangle_rotate
+                0x00100ee8                sf2d_draw_fill_circle
+ .text          0x001010cc      0x4f8 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+                0x001010cc                GPU_SetDummyTexEnv
+                0x00101100                vector_mult_matrix4x4
+                0x00101184                matrix_gpu_set_uniform
+                0x001011d4                matrix_copy
+                0x00101210                matrix_identity4x4
+                0x0010125c                matrix_mult4x4
+                0x001012d0                matrix_set_z_rotation
+                0x00101344                matrix_rotate_z
+                0x001013a4                matrix_set_scaling
+                0x001013f0                matrix_swap_xy
+                0x00101490                matrix_init_orthographic
+                0x001015a4                next_pow2
+ .text          0x001015c4     0x2018 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+                0x001016e8                sf2d_create_texture
+                0x0010181c                sf2d_free_texture
+                0x0010186c                sf2d_fill_texture_from_RGBA8
+                0x00101924                sf2d_create_texture_mem_RGBA8
+                0x00101968                sf2d_bind_texture
+                0x001019e0                sf2d_bind_texture_color
+                0x00101a60                sf2d_bind_texture_parameters
+                0x00101ad8                sf2d_draw_texture
+                0x00101c14                sf2d_draw_texture_blend
+                0x00101d54                sf2d_draw_texture_rotate_hotspot
+                0x00101f00                sf2d_draw_texture_rotate_hotspot_blend
+                0x001020b0                sf2d_draw_texture_rotate
+                0x00102270                sf2d_draw_texture_rotate_blend
+                0x00102434                sf2d_draw_texture_part
+                0x001025ac                sf2d_draw_texture_part_blend
+                0x00102728                sf2d_draw_texture_scale
+                0x0010288c                sf2d_draw_texture_scale_blend
+                0x001029f4                sf2d_draw_texture_part_scale
+                0x00102b44                sf2d_draw_texture_part_scale_blend
+                0x00102c98                sf2d_draw_texture_part_rotate_scale
+                0x00102eac                sf2d_draw_texture_part_rotate_scale_blend
+                0x001030c4                sf2d_draw_texture_depth
+                0x00103220                sf2d_draw_texture_depth_blend
+                0x00103380                sf2d_draw_quad_uv
+                0x001034a8                sf2d_set_pixel
+                0x0010353c                sf2d_get_pixel
+                0x001035cc                sf2d_texture_tile32
+ .text          0x001035dc        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(shader.vsh.o)
+ .text          0x001035dc      0x1d4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+                0x00103604                linearMemAlign
+                0x00103744                linearAlloc
+                0x0010374c                linearRealloc
+                0x00103754                linearFree
+                0x001037a4                linearSpaceFree
+ .text          0x001037b0      0x35c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+                0x001037b0                MemPool::CoalesceRight(MemBlock*)
+                0x00103850                MemPool::Allocate(MemChunk&, unsigned long, int)
+                0x001039d8                MemPool::Deallocate(MemChunk const&)
+                0x00103adc                MemPool::GetFreeSpace()
+ .text          0x00103b0c      0x1c4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+                0x00103b34                vramMemAlign
+                0x00103c64                vramAlloc
+                0x00103c6c                vramRealloc
+                0x00103c74                vramFree
+                0x00103cc4                vramSpaceFree
+ .text          0x00103cd0      0x72c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+                0x00103d5c                gfxSet3D
+                0x00103d6c                gfxSetScreenFormat
+                0x00103d84                gfxGetScreenFormat
+                0x00103d9c                gfxSetDoubleBuffering
+                0x00103db0                gfxSetFramebufferInfo
+                0x00103e20                gfxWriteFramebufferInfo
+                0x00103ee4                gfxInit
+                0x001040c4                gfxInitDefault
+                0x001040d4                gfxExit
+                0x001041a0                gfxGetFramebuffer
+                0x00104250                gfxFlushBuffers
+                0x0010432c                gfxSwapBuffers
+                0x001043a0                gfxSwapBuffersGpu
+ *fill*         0x001043fc        0x4 
+ .text          0x00104400      0x288 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+                0x00104458                osConvertVirtToPhys
+                0x001044a4                osConvertOldLINEARMemToNew
+                0x001044c4                __libctru_gtod
+                0x001045bc                osGetTime
+                0x00104630                osGetFirmVersion
+                0x00104644                osGetKernelVersion
+                0x00104658                osStrError
+                0x00104678                osGetWifiStrength
+ .text          0x00104688     0x1ad0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+                0x001046b0                GPU_Init
+                0x001046dc                GPUCMD_SetBuffer
+                0x00104708                GPUCMD_SetBufferOffset
+                0x00104718                GPUCMD_GetBuffer
+                0x00104758                GPUCMD_AddRawCommands
+                0x001047a4                GPUCMD_Run
+                0x00104804                GPUCMD_FlushAndRun
+                0x00104878                GPUCMD_Add
+                0x0010495c                GPUCMD_Finalize
+                0x001049f4                GPU_Reset
+                0x001051d4                GPU_SetFloatUniform
+                0x0010524c                f32tof24
+                0x00105264                computeInvValue
+                0x0010530c                GPU_SetViewport
+                0x00105528                GPU_SetScissorTest
+                0x00105574                GPU_DepthMap
+                0x0010560c                GPU_SetAlphaTest
+                0x00105644                GPU_SetStencilTest
+                0x0010568c                GPU_SetStencilOp
+                0x001056c0                GPU_SetDepthTestAndWriteMask
+                0x001056f8                GPU_SetAlphaBlending
+                0x00105760                GPU_SetColorLogicOp
+                0x001057a4                GPU_SetBlendingColor
+                0x001057e0                GPU_SetTextureEnable
+                0x0010582c                GPU_SetTexture
+                0x001059c4                GPU_SetTextureBorderColor
+                0x00105a58                GPU_SetAttributeBuffers
+                0x00105c54                GPU_SetAttributeBuffersAddress
+                0x00105c80                GPU_SetFaceCulling
+                0x00105cac                GPU_SetCombinerBufferWrite
+                0x00105ce0                GPU_SetTexEnv
+                0x00105d58                GPU_DrawArray
+                0x00105e6c                GPU_DrawElements
+                0x00105f88                GPU_FinishDrawing
+                0x00105fe4                GPU_SetShaderOutmap
+                0x0010602c                GPU_SendShaderCode
+                0x001060e4                GPU_SendOperandDescriptors
+ .text          0x00106158        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpuResetSequence.o)
+ .text          0x00106158      0x7f4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+                0x00106158                shaderInstanceInit
+                0x00106360                shaderInstanceFree
+                0x00106398                shaderInstanceSetBool
+                0x001063d8                shaderInstanceGetBool
+                0x00106424                shaderInstanceGetUniformLocation
+                0x00106444                shaderProgramInit
+                0x0010645c                shaderProgramFree
+                0x0010648c                shaderProgramSetVsh
+                0x001064f8                shaderProgramSetGsh
+                0x0010656c                shaderProgramUse
+ .text          0x0010694c      0x348 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+                0x0010694c                DVLB_Free
+                0x00106988                DVLE_GetUniformRegister
+                0x00106a04                DVLE_GenerateOutmap
+                0x00106afc                DVLB_ParseFile
+ .text          0x00106c94     0x1cf8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+                0x00106cf8                _aptDebug
+                0x00106cfc                aptInitCaptureInfo
+                0x00106dac                aptWaitStatusEvent
+                0x00106dd4                aptHook
+                0x00106e0c                aptUnhook
+                0x00106e38                aptGetStatus
+                0x00106e70                aptSetStatus
+                0x00106ed4                aptGetStatusPower
+                0x00106f0c                aptSetStatusPower
+                0x00106f44                aptOpenSession
+                0x00106f68                aptCloseSession
+                0x00106f90                aptSignalReadyForSleep
+                0x00106fa0                APT_GetLockHandle
+                0x00106ff0                APT_Initialize
+                0x00107058                APT_Finalize
+                0x00107094                APT_HardwareResetAsync
+                0x001070c8                APT_Enable
+                0x00107104                APT_GetAppletManInfo
+                0x00107184                aptGetMenuAppID
+                0x001071c0                APT_IsRegistered
+                0x00107210                APT_InquireNotification
+                0x00107260                APT_PrepareToJumpToHomeMenu
+                0x00107294                APT_JumpToHomeMenu
+                0x001072e4                APT_PrepareToJumpToApplication
+                0x00107320                APT_JumpToApplication
+                0x00107370                APT_NotifyToWait
+                0x001073ac                APT_AppletUtility
+                0x00107434                aptAppletUtility_Exit_RetToApp
+                0x00107554                aptAppletClosed
+                0x00107690                aptInit
+                0x00107848                APT_GlanceParameter
+                0x001078bc                APT_ReceiveParameter
+                0x00107930                APT_SendParameter
+                0x001079a0                APT_SendCaptureBufferInfo
+                0x001079ec                aptReturnToMenu
+                0x00107bc0                APT_ReplySleepQuery
+                0x00107c00                APT_ReplySleepNotificationComplete
+                0x00107c3c                aptEventHandler
+                0x00107f48                APT_PrepareToCloseApplication
+                0x00107f84                APT_CloseApplication
+                0x00107fdc                aptExit
+                0x001081c8                APT_SetAppCpuTimeLimit
+                0x0010820c                APT_GetAppCpuTimeLimit
+                0x00108260                APT_CheckNew3DS_Application
+                0x001082bc                APT_CheckNew3DS_System
+                0x00108318                APT_CheckNew3DS
+                0x0010838c                APT_PrepareToDoAppJump
+                0x001083d8                APT_DoAppJump
+                0x00108440                APT_PrepareToStartLibraryApplet
+                0x0010847c                APT_StartLibraryApplet
+                0x001084dc                aptAppletStarted
+                0x001085e0                aptMainLoop
+                0x00108758                APT_LaunchLibraryApplet
+                0x001088f0                APT_PrepareToStartSystemApplet
+                0x0010892c                APT_StartSystemApplet
+ .text          0x0010898c      0x8c8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+                0x00108a98                gspInit
+                0x00108aac                gspExit
+                0x00108ac4                gspInitEventHandler
+                0x00108b90                gspExitEventHandler
+                0x00108be8                gspWaitForEvent
+                0x00108c40                GSPGPU_WriteHWRegs
+                0x00108cb0                GSPGPU_WriteHWRegsWithMask
+                0x00108d3c                GSPGPU_ReadHWRegs
+                0x00108dac                GSPGPU_SetBufferSwap
+                0x00108e20                GSPGPU_FlushDataCache
+                0x00108e74                GSPGPU_InvalidateDataCache
+                0x00108ec8                GSPGPU_SetLcdForceBlack
+                0x00108f04                GSPGPU_TriggerCmdReqQueue
+                0x00108f38                GSPGPU_RegisterInterruptRelayQueue
+                0x00108fa4                GSPGPU_UnregisterInterruptRelayQueue
+                0x00108fd8                GSPGPU_AcquireRight
+                0x00109028                GSPGPU_ReleaseRight
+                0x0010905c                GSPGPU_ImportDisplayCaptureInfo
+                0x001090e0                GSPGPU_SaveVramSysArea
+                0x00109114                GSPGPU_RestoreVramSysArea
+                0x00109148                GSPGPU_SubmitGxCommand
+ .text          0x00109254      0x264 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+                0x00109254                GX_RequestDma
+                0x001092a8                GX_SetCommandList_Last
+                0x00109310                GX_SetMemoryFill
+                0x00109384                GX_SetDisplayTransfer
+                0x001093e8                GX_SetTextureCopy
+                0x00109450                GX_SetCommandList_First
+ .text          0x001094b8      0x6f4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+                0x001094b8                hidExit
+                0x0010955c                hidWaitForEvent
+                0x001095b4                hidCheckSectionUpdateTime
+                0x001095f0                hidScanInput
+                0x00109824                hidKeysHeld
+                0x00109834                hidKeysDown
+                0x00109844                hidKeysUp
+                0x00109854                hidTouchRead
+                0x0010986c                hidCircleRead
+                0x00109884                hidAccelRead
+                0x001098a4                hidGyroRead
+                0x001098c4                HIDUSER_GetHandles
+                0x00109954                hidInit
+                0x00109a88                HIDUSER_EnableAccelerometer
+                0x00109ab4                HIDUSER_DisableAccelerometer
+                0x00109ae0                HIDUSER_EnableGyroscope
+                0x00109b0c                HIDUSER_DisableGyroscope
+                0x00109b38                HIDUSER_GetGyroscopeRawToDpsCoefficient
+                0x00109b74                HIDUSER_GetSoundVolume
+ .text          0x00109bac      0x388 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+                0x00109bac                irrstWaitForEvent
+                0x00109bf8                irrstCheckSectionUpdateTime
+                0x00109c34                irrstScanInput
+                0x00109ce8                irrstKeysHeld
+                0x00109d00                irrstCstickRead
+                0x00109d18                IRRST_GetHandles
+                0x00109d68                IRRST_Initialize
+                0x00109da0                irrstInit
+                0x00109e84                IRRST_Shutdown
+                0x00109eb0                irrstExit
+ .text          0x00109f34       0x70 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+                0x00109f34                rbtree_find
+ .text          0x00109fa4       0x14 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_init.o)
+                0x00109fa4                rbtree_init
+ .text          0x00109fb8      0x1f4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+                0x0010a19c                rbtree_insert
+                0x0010a1a4                rbtree_insert_multi
+ .text          0x0010a1ac      0x340 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+                0x0010a1ac                rbtree_remove
+ .text          0x0010a4ec       0xac /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+                0x0010a4ec                rbtree_rotate
+ .text          0x0010a598       0xa4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+                0x0010a598                __system_allocateHeaps
+ .text          0x0010a63c       0xf4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+                0x0010a63c                __system_initArgv
+ .text          0x0010a730       0x4c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+                0x0010a730                __libctru_init
+ *fill*         0x0010a77c        0x4 
+ .text          0x0010a780      0x3d0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(svc.o)
+                0x0010a780                svcControlMemory
+                0x0010a7a0                svcQueryMemory
+                0x0010a7d0                svcExitProcess
+                0x0010a7d8                svcCreateThread
+                0x0010a7f8                svcExitThread
+                0x0010a800                svcSleepThread
+                0x0010a808                svcGetThreadPriority
+                0x0010a81c                svcSetThreadPriority
+                0x0010a824                svcGetThreadAffinityMask
+                0x0010a82c                svcSetThreadAffinityMask
+                0x0010a834                svcGetThreadIdealProcessor
+                0x0010a848                svcSetThreadIdealProcessor
+                0x0010a850                svcGetProcessorID
+                0x0010a858                svcCreateMutex
+                0x0010a86c                svcReleaseMutex
+                0x0010a874                svcCreateSemaphore
+                0x0010a888                svcReleaseSemaphore
+                0x0010a89c                svcCreateEvent
+                0x0010a8b0                svcSignalEvent
+                0x0010a8b8                svcClearEvent
+                0x0010a8c0                svcCreateTimer
+                0x0010a8d4                svcSetTimer
+                0x0010a8dc                svcCancelTimer
+                0x0010a8e4                svcClearTimer
+                0x0010a8ec                svcCreateMemoryBlock
+                0x0010a904                svcMapMemoryBlock
+                0x0010a90c                svcUnmapMemoryBlock
+                0x0010a914                svcCreateAddressArbiter
+                0x0010a928                svcArbitrateAddress
+                0x0010a948                svcCloseHandle
+                0x0010a950                svcWaitSynchronization
+                0x0010a958                svcWaitSynchronizationN
+                0x0010a980                svcDuplicateHandle
+                0x0010a994                svcGetSystemTick
+                0x0010a99c                svcGetSystemInfo
+                0x0010a9b4                svcGetProcessInfo
+                0x0010a9cc                svcGetThreadInfo
+                0x0010a9e4                svcConnectToPort
+                0x0010a9f8                svcSendSyncRequest
+                0x0010aa00                svcOpenProcess
+                0x0010aa14                svcOpenThread
+                0x0010aa28                svcGetProcessId
+                0x0010aa3c                svcGetProcessIdOfThread
+                0x0010aa50                svcGetThreadId
+                0x0010aa64                svcOutputDebugString
+                0x0010aa6c                svcCreatePort
+                0x0010aa8c                svcDebugActiveProcess
+                0x0010aaa0                svcBreakDebugProcess
+                0x0010aaa8                svcTerminateDebugProcess
+                0x0010aab0                svcGetProcessDebugEvent
+                0x0010aab8                svcContinueDebugEvent
+                0x0010aac0                svcGetProcessList
+                0x0010aae0                svcReadProcessMemory
+                0x0010aae8                svcWriteProcessMemory
+                0x0010aaf0                svcControlProcessMemory
+                0x0010ab08                svcMapProcessMemory
+                0x0010ab10                svcUnmapProcessMemory
+                0x0010ab18                svcBackdoor
+                0x0010ab20                svcQueryProcessMemory
+ .text          0x0010ab50       0x64 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o)
+                0x0010ab50                initSystem
+                0x0010ab94                __ctru_exit
+ .text          0x0010abb4      0x3b8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+                0x0010abb4                __get_handle_from_list
+                0x0010ac4c                __destroy_handle_list
+                0x0010aca0                srvExit
+                0x0010acc8                srvGetSessionHandle
+                0x0010acd4                srvRegisterClient
+                0x0010ad0c                srvInit
+                0x0010ad74                srvGetServiceHandle
+                0x0010adf4                srvRegisterService
+                0x0010ae50                srvUnregisterService
+                0x0010ae9c                srvPmInit
+                0x0010aef0                srvRegisterProcess
+                0x0010af38                srvUnregisterProcess
+ .text          0x0010af6c      0x118 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+                0x0010af6c                rbtree_node_next
+                0x0010aff8                rbtree_node_prev
+ .text          0x0010b084       0x1c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appExit.o)
+                0x0010b084                __appExit
+ .text          0x0010b0a0       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appInit.o)
+                0x0010b0a0                __appInit
+ .text          0x0010b0c0       0x90 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(ctru_exit.o)
+                0x0010b0c0                __libctru_exit
+ .text          0x0010b150      0xffc /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+                0x0010bfcc                sdmcInit
+                0x0010c0fc                sdmcExit
+ .text          0x0010c14c      0xc88 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+                0x0010c14c                FS_makePath
+                0x0010c178                fsExit
+                0x0010c19c                fsGetSessionHandle
+                0x0010c1a8                FSUSER_Initialize
+                0x0010c21c                fsInit
+                0x0010c288                FSUSER_OpenFile
+                0x0010c334                FSUSER_OpenFileDirectly
+                0x0010c400                FSUSER_DeleteFile
+                0x0010c488                FSUSER_RenameFile
+                0x0010c54c                FSUSER_DeleteDirectory
+                0x0010c5d4                FSUSER_DeleteDirectoryRecursively
+                0x0010c65c                FSUSER_CreateFile
+                0x0010c6f4                FSUSER_CreateDirectory
+                0x0010c780                FSUSER_RenameDirectory
+                0x0010c844                FSUSER_OpenDirectory
+                0x0010c8d8                FSUSER_OpenArchive
+                0x0010c960                FSUSER_CloseArchive
+                0x0010c9b8                FSUSER_GetSdmcArchiveResource
+                0x0010ca34                FSUSER_GetNandArchiveResource
+                0x0010cab0                FSUSER_IsSdmcDetected
+                0x0010cafc                FSUSER_IsSdmcWritable
+                0x0010cb48                FSFILE_Close
+                0x0010cb8c                FSFILE_Read
+                0x0010cbe8                FSFILE_Write
+                0x0010cc4c                FSFILE_GetSize
+                0x0010cc8c                FSFILE_SetSize
+                0x0010ccb8                FSFILE_GetAttributes
+                0x0010ccf0                FSFILE_SetAttributes
+                0x0010cd18                FSFILE_Flush
+                0x0010cd3c                FSDIR_Read
+                0x0010cd90                FSDIR_Close
+ .text          0x0010cdd4      0x138 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+                0x0010cdd4                decode_utf8
+ .text          0x0010cf0c       0xe8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o)
+                0x0010cf0c                utf16_to_utf8
+ .text          0x0010cff4       0xb8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o)
+                0x0010cff4                utf8_to_utf16
+ .text          0x0010d0ac       0x60 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
+                0x0010d0ac                decode_utf16
+ .text          0x0010d10c       0x68 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf16.o)
+                0x0010d10c                encode_utf16
+ .text          0x0010d174      0x104 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf8.o)
+                0x0010d174                encode_utf8
+ .text          0x0010d278        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_cos.o)
+ .text          0x0010d278        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_sin.o)
+ .text          0x0010d278        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-ef_rem_pio2.o)
+ .text          0x0010d278        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_cos.o)
+ .text          0x0010d278        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_rem_pio2.o)
+ .text          0x0010d278        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_sin.o)
+ .text          0x0010d278        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_fabs.o)
+ .text          0x0010d278        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_floor.o)
+ .text          0x0010d278        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_scalbn.o)
+ .text          0x0010d278        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_copysign.o)
+ .text          0x0010d278      0x250 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/libgcc.a(_arm_addsubsf3.o)
+                0x0010d278                __aeabi_frsub
+                0x0010d280                __aeabi_fsub
+                0x0010d280                __subsf3
+                0x0010d284                __aeabi_fadd
+                0x0010d284                __addsf3
+                0x0010d414                __aeabi_ui2f
+                0x0010d414                __floatunsisf
+                0x0010d41c                __floatsisf
+                0x0010d41c                __aeabi_i2f
+                0x0010d43c                __aeabi_ul2f
+                0x0010d43c                __floatundisf
+                0x0010d44c                __aeabi_l2f
+                0x0010d44c                __floatdisf
+ .text          0x0010d4c8        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-bsearch.o)
+ .text          0x0010d4c8        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-fini.o)
+ .text          0x0010d4c8        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-init.o)
+ .text          0x0010d4c8        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-malloc.o)
+ .text          0x0010d4c8        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+ .text          0x0010d4c8        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memcpy.o)
+ .text          0x0010d4c8        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memset.o)
+ .text          0x0010d4c8        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mlock.o)
+ .text          0x0010d4c8        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-rand.o)
+ *fill*         0x0010d4c8       0x18 
+ .text          0x0010d4e0      0x3a0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strcmp.o)
+                0x0010d4e8                strcmp
+ .text          0x0010d880        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strcpy.o)
+ .text          0x0010d880        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strlen.o)
+ .text          0x0010d880        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncat.o)
+ .text          0x0010d880        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncpy.o)
+ .text          0x0010d880        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-time.o)
+ .text          0x0010d880        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-freer.o)
+ .text          0x0010d880      0x1a8 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(iosupport.o)
+                0x0010d880                setDefaultDevice
+                0x0010d898                FindDevice
+                0x0010d944                RemoveDevice
+                0x0010d970                AddDevice
+                0x0010da04                GetDeviceOpTab
+ .text          0x0010da28       0x2c /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(gettod.o)
+                0x0010da28                _gettimeofday_r
+ .text          0x0010da54       0x70 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(sbrk.o)
+                0x0010da54                _sbrk_r
+ .text          0x0010dac4        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(malloc_vars.o)
+ .text          0x0010dac4      0x3a4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(chdir.o)
+                0x0010dac4                _concatenate_path
+                0x0010dc80                chdir
+                0x0010ddc8                getcwd
+ .text          0x0010de68      0x108 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(syscall_support.o)
+                0x0010de68                __libc_lock_init
+                0x0010de80                __libc_lock_acquire
+                0x0010de98                __libc_lock_try_acquire
+                0x0010debc                __libc_lock_release
+                0x0010ded4                __libc_lock_close
+                0x0010deec                __libc_lock_init_recursive
+                0x0010df04                __libc_lock_acquire_recursive
+                0x0010df1c                __libc_lock_try_acquire_recursive
+                0x0010df40                __libc_lock_release_recursive
+                0x0010df58                __libc_lock_close_recursive
+ .text          0x0010df70       0x28 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(getreent.o)
+                0x0010df70                __getreent
+ .text          0x0010df98        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-impure.o)
+ .text          0x0010df98        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strchr.o)
+ .text          0x0010df98        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncmp.o)
+ .text          0x0010df98        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strnlen.o)
+ .text          0x0010df98        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strrchr.o)
+ .text          0x0010df98        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtend.o
+ .text          0x0010df98        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtn.o
+ *(.text.*)
+ .text.startup  0x0010df98      0x2ec main.o
+                0x0010df98                main
+ .text.cosf     0x0010e284       0xa8 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_cos.o)
+                0x0010e284                cosf
+ .text.sinf     0x0010e32c       0xb0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_sin.o)
+                0x0010e32c                sinf
+ .text.__ieee754_rem_pio2f
+                0x0010e3dc      0x2e0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-ef_rem_pio2.o)
+                0x0010e3dc                __ieee754_rem_pio2f
+ .text.__kernel_cosf
+                0x0010e6bc      0x124 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_cos.o)
+                0x0010e6bc                __kernel_cosf
+ .text.__kernel_rem_pio2f
+                0x0010e7e0      0x838 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_rem_pio2.o)
+                0x0010e7e0                __kernel_rem_pio2f
+ .text.__kernel_sinf
+                0x0010f018       0xa0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_sin.o)
+                0x0010f018                __kernel_sinf
+ .text.fabsf    0x0010f0b8       0x10 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_fabs.o)
+                0x0010f0b8                fabsf
+ .text.floorf   0x0010f0c8       0xb8 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_floor.o)
+                0x0010f0c8                floorf
+ .text.scalbnf  0x0010f180      0x118 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_scalbn.o)
+                0x0010f180                scalbnf
+ .text.copysignf
+                0x0010f298       0x1c /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_copysign.o)
+                0x0010f298                copysignf
+ .text.bsearch  0x0010f2b4       0x78 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-bsearch.o)
+                0x0010f2b4                bsearch
+ .text.__libc_fini_array
+                0x0010f32c       0x40 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-fini.o)
+                0x0010f32c                __libc_fini_array
+ .text.__libc_init_array
+                0x0010f36c       0x78 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-init.o)
+                0x0010f36c                __libc_init_array
+ .text.malloc   0x0010f3e4       0x18 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-malloc.o)
+                0x0010f3e4                malloc
+ .text.free     0x0010f3fc       0x18 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-malloc.o)
+                0x0010f3fc                free
+ .text._malloc_r
+                0x0010f414      0x740 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+                0x0010f414                _malloc_r
+ .text.memcpy   0x0010fb54       0xf4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memcpy.o)
+                0x0010fb54                memcpy
+ .text.memset   0x0010fc48       0xf0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memset.o)
+                0x0010fc48                memset
+ .text.__malloc_lock
+                0x0010fd38        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mlock.o)
+                0x0010fd38                __malloc_lock
+ .text.__malloc_unlock
+                0x0010fd3c        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mlock.o)
+                0x0010fd3c                __malloc_unlock
+ .text.srand    0x0010fd40       0x1c /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-rand.o)
+                0x0010fd40                srand
+ .text.rand     0x0010fd5c       0x44 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-rand.o)
+                0x0010fd5c                rand
+ .text.strcpy   0x0010fda0       0xf0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strcpy.o)
+                0x0010fda0                strcpy
+ .text.strlen   0x0010fe90       0x5c /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strlen.o)
+                0x0010fe90                strlen
+ .text.strncat  0x0010feec       0xa4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncat.o)
+                0x0010feec                strncat
+ .text.strncpy  0x0010ff90       0xe0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncpy.o)
+                0x0010ff90                strncpy
+ .text.time     0x00110070       0x40 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-time.o)
+                0x00110070                time
+ .text._malloc_trim_r
+                0x001100b0       0xf8 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-freer.o)
+                0x001100b0                _malloc_trim_r
+ .text._free_r  0x001101a8      0x2b4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-freer.o)
+                0x001101a8                _free_r
+ .text.strchr   0x0011045c      0x16c /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strchr.o)
+                0x0011045c                strchr
+ .text.strncmp  0x001105c8      0x110 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncmp.o)
+                0x001105c8                strncmp
+ .text.strnlen  0x001106d8       0x5c /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strnlen.o)
+                0x001106d8                strnlen
+ .text.strrchr  0x00110734       0x44 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strrchr.o)
+                0x00110734                strrchr
+ *(.glue_7)
+ .glue_7        0x00110778        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00110778        0x0 linker stubs
+ *(.stub)
+ *(.gnu.warning)
+ *(.gnu.linkonce.t*)
+                0x00110778                . = ALIGN (0x4)
+ *(.fini)
+ .fini          0x00110778        0xc /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crti.o
+                0x00110778                _fini
+ .fini          0x00110784        0xc /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtn.o
+                0x00110790                . = ALIGN (0x4)
+
+.vfp11_veneer   0x00110790        0x0
+ .vfp11_veneer  0x00110790        0x0 linker stubs
+
+.v4_bx          0x00110790        0x0
+ .v4_bx         0x00110790        0x0 linker stubs
+
+.iplt           0x00110790        0x0
+ .iplt          0x00110790        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/3dsx_crt0.o
+
+.rodata         0x00111000    0x2111c
+ *(.rodata)
+ .rodata        0x00111000    0x10010 citra_img.o
+                0x00111000                citra_img
+ .rodata        0x00121010    0x10948 dice_img.o
+                0x00121010                dice_img
+ .rodata        0x00131958       0x30 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+ .rodata        0x00131988      0x158 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(shader.vsh.o)
+                0x00131988                shader_vsh_shbin
+                0x00131adb                shader_vsh_shbin_end
+                0x00131adc                shader_vsh_shbin_size
+ .rodata        0x00131ae0       0x14 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+ .rodata        0x00131af4       0x2c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+ .rodata        0x00131b20        0xc /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+                0x00131b20                GPU_FORMATSIZE
+                0x00131b24                GPU_TEVID
+ .rodata        0x00131b2c        0x8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+ .rodata        0x00131b34       0x24 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+ .rodata        0x00131b58        0xc /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+ .rodata        0x00131b64       0x30 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+ .rodata        0x00131b94       0x68 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(iosupport.o)
+                0x00131b94                dotab_stdnull
+ .rodata        0x00131bfc        0xc /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(chdir.o)
+                0x00131bfc                DIRECTORY_PARENT
+                0x00131c00                DIRECTORY_THIS
+                0x00131c04                DIRECTORY_SEPARATOR
+ *(.roda)
+ *(.rodata.*)
+ .rodata.str1.4
+                0x00131c08        0xb /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+                                  0xc (size before relaxing)
+ *fill*         0x00131c13        0x1 
+ .rodata.str1.4
+                0x00131c14       0xc4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+ .rodata.str1.4
+                0x00131cd8       0x16 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+                                 0x18 (size before relaxing)
+ *fill*         0x00131cee        0x2 
+ .rodata.str1.4
+                0x00131cf0        0x9 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+                                  0xc (size before relaxing)
+ *fill*         0x00131cf9        0x3 
+ .rodata.str1.4
+                0x00131cfc       0x15 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+                                 0x18 (size before relaxing)
+ *fill*         0x00131d11        0x3 
+ .rodata.str1.4
+                0x00131d14        0x7 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+                                  0x8 (size before relaxing)
+ *fill*         0x00131d1b        0x1 
+ .rodata.str1.4
+                0x00131d1c        0xf /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+                                 0x10 (size before relaxing)
+ *fill*         0x00131d2b        0x1 
+ .rodata.str1.4
+                0x00131d2c        0x5 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+                                  0xc (size before relaxing)
+ *fill*         0x00131d31        0x3 
+ .rodata.str1.4
+                0x00131d34        0x8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+ .rodata.npio2_hw
+                0x00131d3c       0x80 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-ef_rem_pio2.o)
+ .rodata.two_over_pi
+                0x00131dbc      0x318 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-ef_rem_pio2.o)
+ .rodata.init_jk
+                0x001320d4        0xc /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_rem_pio2.o)
+ .rodata.PIo2   0x001320e0       0x2c /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_rem_pio2.o)
+ .rodata.str1.4
+                0x0013210c        0x8 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(iosupport.o)
+ .rodata.str1.4
+                0x00132114        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00132118        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-impure.o)
+                0x00132118                _global_impure_ptr
+ *all.rodata*(*)
+ *(.gnu.linkonce.r*)
+                0x0013211c                . = ALIGN (0x4)
+
+.rel.dyn        0x0013211c        0x0
+ .rel.iplt      0x0013211c        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/3dsx_crt0.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0013211c                __exidx_start = .
+
+ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0013211c                __exidx_end = .
+
+.data           0x00133000     0x2e64
+ *(.data)
+ .data          0x00133000        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/3dsx_crt0.o
+ .data          0x00133000        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crti.o
+ .data          0x00133000        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtbegin.o
+                0x00133000                __dso_handle
+ .data          0x00133004        0x0 citra_img.o
+ .data          0x00133004        0x0 dice_img.o
+ .data          0x00133004        0x0 main.o
+ .data          0x00133004        0xc /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+ .data          0x00133010        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_draw.o)
+ .data          0x00133010        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+ .data          0x00133010        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+ .data          0x00133010        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(shader.vsh.o)
+ .data          0x00133010        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+ .data          0x00133010        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+ .data          0x00133010        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+ .data          0x00133010        0xc /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+ .data          0x0013301c        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+ .data          0x0013301c        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+ .data          0x0013301c      0x53c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpuResetSequence.o)
+                0x0013301c                gpuResetSequenceLength
+                0x00133020                gpuResetSequence
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_init.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+ .data          0x00133558        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(svc.o)
+ .data          0x00133558        0x4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o)
+                0x00133558                __stacksize__
+ .data          0x0013355c        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+ .data          0x0013355c        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+ .data          0x0013355c        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appExit.o)
+ .data          0x0013355c        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appInit.o)
+ .data          0x0013355c        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(ctru_exit.o)
+ .data          0x0013355c     0x1084 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf16.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf8.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_cos.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_sin.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-ef_rem_pio2.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_cos.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_rem_pio2.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_sin.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_fabs.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_floor.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_scalbn.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_copysign.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/libgcc.a(_arm_addsubsf3.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-bsearch.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-fini.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-init.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-malloc.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memcpy.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memset.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mlock.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-rand.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strcmp.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strcpy.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strlen.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncat.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncpy.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-time.o)
+ .data          0x001345e0        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-freer.o)
+ .data          0x001345e0       0x44 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(iosupport.o)
+                0x001345e4                devoptab_list
+ .data          0x00134624        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(gettod.o)
+ .data          0x00134624        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(sbrk.o)
+ .data          0x00134624        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(malloc_vars.o)
+ .data          0x00134624     0x1000 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(chdir.o)
+ .data          0x00135624        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(syscall_support.o)
+ .data          0x00135624        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(getreent.o)
+ .data          0x00135624        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-impure.o)
+ .data          0x00135624        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strchr.o)
+ .data          0x00135624        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncmp.o)
+ .data          0x00135624        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strnlen.o)
+ .data          0x00135624        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strrchr.o)
+ .data          0x00135624        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtend.o
+ .data          0x00135624        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtn.o
+ *(.data.*)
+ .data.__malloc_av_
+                0x00135624      0x408 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+                0x00135624                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x00135a2c        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+                0x00135a2c                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x00135a30        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+                0x00135a30                __malloc_sbrk_base
+ *fill*         0x00135a34        0x4 
+ .data.impure_data
+                0x00135a38      0x428 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00135e60        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-impure.o)
+                0x00135e60                _impure_ptr
+ *(.gnu.linkonce.d*)
+                0x00135e64                . = ALIGN (0x4)
+
+.igot.plt       0x00135e64        0x0
+ .igot.plt      0x00135e64        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/3dsx_crt0.o
+
+.eh_frame       0x00135e64       0x74
+ .eh_frame      0x00135e64        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtbegin.o
+ .eh_frame      0x00135e64       0x70 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strcmp.o)
+ .eh_frame      0x00135ed4        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtend.o
+
+.jcr            0x00135ed8        0x4
+ .jcr           0x00135ed8        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtbegin.o
+ .jcr           0x00135ed8        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtend.o
+
+.tm_clone_table
+                0x00135edc        0x0
+ .tm_clone_table
+                0x00135edc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtbegin.o
+ .tm_clone_table
+                0x00135edc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtend.o
+                0x00135edc                __TMC_END__
+
+.preinit_array  0x00135edc        0x0
+                0x00135edc                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x00135edc                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00135edc        0x4
+                0x00135edc                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00135edc        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtbegin.o
+                0x00135ee0                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00135ee0        0x4
+                0x00135ee0                PROVIDE (__fini_array_start, .)
+ *(.fini_array)
+ .fini_array    0x00135ee0        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x00135ee4                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x00135ee4                __bss_start__ = .
+
+.bss            0x00135ee4     0xb784
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00135ee4        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/3dsx_crt0.o
+ .bss           0x00135ee4        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crti.o
+ .bss           0x00135ee4       0x1c /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtbegin.o
+ .bss           0x00135f00        0x0 citra_img.o
+ .bss           0x00135f00        0x0 dice_img.o
+ .bss           0x00135f00        0x0 main.o
+ .bss           0x00135f00       0xd8 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+ .bss           0x00135fd8        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_draw.o)
+ .bss           0x00135fd8        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+ .bss           0x00135fd8        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+ .bss           0x00135fd8        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(shader.vsh.o)
+ .bss           0x00135fd8       0x14 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+ .bss           0x00135fec        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+ .bss           0x00135fec       0x14 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+ .bss           0x00136000        0xc /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+                0x00136004                screenFree
+ .bss           0x0013600c        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+ .bss           0x0013600c      0x400 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+ .bss           0x0013640c        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpuResetSequence.o)
+ .bss           0x0013640c        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+ .bss           0x0013640c        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+ .bss           0x0013640c       0x5c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+                0x00136410                aptStatusEvent
+                0x00136420                aptStatus
+                0x00136424                aptStatusPower
+                0x00136428                aptSleepSync
+                0x00136450                aptStatusBeforeSleep
+ .bss           0x00136468        0xc /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+                0x00136470                gspGpuHandle
+ .bss           0x00136474        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+ .bss           0x00136474       0x2c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+ .bss           0x001364a0        0xc /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+ .bss           0x001364ac        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+ .bss           0x001364ac        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_init.o)
+ .bss           0x001364ac        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+ .bss           0x001364ac        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+ .bss           0x001364ac        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+ .bss           0x001364ac        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+ .bss           0x001364ac        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+ .bss           0x001364ac        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+ .bss           0x001364ac        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(svc.o)
+ .bss           0x001364ac        0x8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o)
+ .bss           0x001364b4        0x4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+ .bss           0x001364b8        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+ .bss           0x001364b8        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appExit.o)
+ .bss           0x001364b8        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appInit.o)
+ .bss           0x001364b8        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(ctru_exit.o)
+ .bss           0x001364b8     0x700c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+ .bss           0x0013d4c4        0x8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf16.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf8.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_cos.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_sin.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-ef_rem_pio2.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_cos.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_rem_pio2.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_sin.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_fabs.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_floor.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_scalbn.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_copysign.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-bsearch.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-fini.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-init.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-malloc.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memcpy.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memset.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mlock.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-rand.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strcmp.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strcpy.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strlen.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncat.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncpy.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-time.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-freer.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(iosupport.o)
+ .bss           0x0013d4cc        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(gettod.o)
+ .bss           0x0013d4cc        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(sbrk.o)
+ .bss           0x0013d4d0        0x8 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(malloc_vars.o)
+                0x0013d4d0                fake_heap_start
+                0x0013d4d4                fake_heap_end
+ .bss           0x0013d4d8     0x1000 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(chdir.o)
+ .bss           0x0013e4d8       0x40 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(syscall_support.o)
+                0x0013e4d8                __syscalls
+ .bss           0x0013e518        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(getreent.o)
+ .bss           0x0013e518        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-impure.o)
+ .bss           0x0013e518        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strchr.o)
+ .bss           0x0013e518        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncmp.o)
+ .bss           0x0013e518        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strnlen.o)
+ .bss           0x0013e518        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strrchr.o)
+ .bss           0x0013e518        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtend.o
+ .bss           0x0013e518        0x0 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtn.o
+ *(.bss.*)
+ .bss.__malloc_max_total_mem
+                0x0013e518        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+                0x0013e518                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x0013e51c        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+                0x0013e51c                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x0013e520        0x4 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+                0x0013e520                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x0013e524       0x28 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+                0x0013e524                __malloc_current_mallinfo
+ *(.gnu.linkonce.b*)
+ *(COMMON)
+ COMMON         0x0013e54c       0x60 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+                0x0013e54c                gfxBottomFramebuffers
+                0x0013e554                gspSharedMemHandle
+                0x0013e558                bottomFramebufferInfo
+                0x0013e574                gspEvent
+                0x0013e578                gfxTopLeftFramebuffers
+                0x0013e580                gfxTopRightFramebuffers
+                0x0013e588                topFramebufferInfo
+                0x0013e5a4                gfxThreadID
+                0x0013e5a8                gfxSharedMemory
+ COMMON         0x0013e5ac        0xc /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+                0x0013e5ac                gpuCmdBuf
+                0x0013e5b0                gpuCmdBufOffset
+                0x0013e5b4                gpuCmdBufSize
+ COMMON         0x0013e5b8     0x2022 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+                0x0013e5b8                aptEventHandlerThread
+                0x0013e5bc                aptParameters
+                0x0013f5c0                aptEventHandlerStack
+                0x001405c0                aptuHandle
+                0x001405c4                aptEvents
+                0x001405d0                aptStatusMutex
+                0x001405d4                aptLockHandle
+                0x001405d8                currentAppId
+ *fill*         0x001405da        0x6 
+ COMMON         0x001405e0     0x103d /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+                0x001405e0                gspEventStack
+                0x001415e0                gspEventThread
+                0x001415e4                gspEventCounts
+                0x00141600                gspEvents
+                0x0014161c                gspRunEvents
+ *fill*         0x0014161d        0x3 
+ COMMON         0x00141620        0x4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+                0x00141620                gxCmdBuf
+ COMMON         0x00141624       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+                0x00141624                hidMemHandle
+                0x00141628                hidHandle
+                0x0014162c                hidSharedMem
+                0x00141630                hidEvents
+ COMMON         0x00141644       0x10 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+                0x00141644                irrstHandle
+                0x00141648                irrstEvent
+                0x0014164c                irrstMemHandle
+                0x00141650                irrstSharedMem
+ COMMON         0x00141654        0x8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+                0x00141654                __heapBase
+                0x00141658                __linear_heap
+ COMMON         0x0014165c        0x8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+                0x0014165c                __system_argv
+                0x00141660                __system_argc
+ COMMON         0x00141664        0x4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+                0x00141664                __system_retAddr
+                0x00141668                . = ALIGN (0x4)
+                0x00141668                __bss_end__ = .
+                0x00141668                __end__ = ABSOLUTE (.)
+
+/DISCARD/
+ *(.group .comment .note)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x568
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x18 citra_img.o
+ .debug_aranges
+                0x00000018       0x18 dice_img.o
+ .debug_aranges
+                0x00000030       0x20 main.o
+ .debug_aranges
+                0x00000050       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+ .debug_aranges
+                0x00000070       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_draw.o)
+ .debug_aranges
+                0x00000090       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+ .debug_aranges
+                0x000000b0       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+ .debug_aranges
+                0x000000d0       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+ .debug_aranges
+                0x000000f0       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+ .debug_aranges
+                0x00000110       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+ .debug_aranges
+                0x00000130       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+ .debug_aranges
+                0x00000150       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+ .debug_aranges
+                0x00000170       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+ .debug_aranges
+                0x00000190       0x18 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpuResetSequence.o)
+ .debug_aranges
+                0x000001a8       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+ .debug_aranges
+                0x000001c8       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+ .debug_aranges
+                0x000001e8       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+ .debug_aranges
+                0x00000208       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+ .debug_aranges
+                0x00000228       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+ .debug_aranges
+                0x00000248       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+ .debug_aranges
+                0x00000268       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+ .debug_aranges
+                0x00000288       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+ .debug_aranges
+                0x000002a8       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_init.o)
+ .debug_aranges
+                0x000002c8       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+ .debug_aranges
+                0x000002e8       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+ .debug_aranges
+                0x00000308       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+ .debug_aranges
+                0x00000328       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+ .debug_aranges
+                0x00000348       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+ .debug_aranges
+                0x00000368       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+ .debug_aranges
+                0x00000388       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(svc.o)
+ .debug_aranges
+                0x000003a8       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o)
+ .debug_aranges
+                0x000003c8       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+ .debug_aranges
+                0x000003e8       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+ .debug_aranges
+                0x00000408       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appExit.o)
+ .debug_aranges
+                0x00000428       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appInit.o)
+ .debug_aranges
+                0x00000448       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(ctru_exit.o)
+ .debug_aranges
+                0x00000468       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+ .debug_aranges
+                0x00000488       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+ .debug_aranges
+                0x000004a8       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+ .debug_aranges
+                0x000004c8       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o)
+ .debug_aranges
+                0x000004e8       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o)
+ .debug_aranges
+                0x00000508       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
+ .debug_aranges
+                0x00000528       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf16.o)
+ .debug_aranges
+                0x00000548       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf8.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x1b932
+ *(.debug_info)
+ .debug_info    0x00000000       0x94 citra_img.o
+ .debug_info    0x00000094       0x94 dice_img.o
+ .debug_info    0x00000128      0x9e0 main.o
+ .debug_info    0x00000b08     0x17d0 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+ .debug_info    0x000022d8      0xa14 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_draw.o)
+ .debug_info    0x00002cec      0x7c2 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+ .debug_info    0x000034ae     0x3267 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+ .debug_info    0x00006715      0x974 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+ .debug_info    0x00007089      0x8ed /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+ .debug_info    0x00007976      0x95e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+ .debug_info    0x000082d4      0xd7a /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+ .debug_info    0x0000904e      0xc28 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+ .debug_info    0x00009c76     0x2a35 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+ .debug_info    0x0000c6ab       0xbb /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpuResetSequence.o)
+ .debug_info    0x0000c766      0xc8d /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+ .debug_info    0x0000d3f3      0x6ef /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+ .debug_info    0x0000dae2     0x35d8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+ .debug_info    0x000110ba     0x10dd /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+ .debug_info    0x00012197      0x4e7 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+ .debug_info    0x0001267e      0xe22 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+ .debug_info    0x000134a0      0x779 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+ .debug_info    0x00013c19      0x1c9 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+ .debug_info    0x00013de2      0x178 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_init.o)
+ .debug_info    0x00013f5a      0x60c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+ .debug_info    0x00014566      0x838 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+ .debug_info    0x00014d9e      0x2ec /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+ .debug_info    0x0001508a      0x269 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+ .debug_info    0x000152f3      0x165 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+ .debug_info    0x00015458      0xacb /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+ .debug_info    0x00015f23       0xaf /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(svc.o)
+ .debug_info    0x00015fd2       0xbf /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o)
+ .debug_info    0x00016091      0x828 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+ .debug_info    0x000168b9      0x2a3 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+ .debug_info    0x00016b5c      0x11b /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appExit.o)
+ .debug_info    0x00016c77      0x15c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appInit.o)
+ .debug_info    0x00016dd3      0x26e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(ctru_exit.o)
+ .debug_info    0x00017041     0x29f7 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+ .debug_info    0x00019a38     0x1706 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+ .debug_info    0x0001b13e      0x13c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+ .debug_info    0x0001b27a      0x1d9 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o)
+ .debug_info    0x0001b453      0x1d9 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o)
+ .debug_info    0x0001b62c      0x11c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
+ .debug_info    0x0001b748       0xf5 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf16.o)
+ .debug_info    0x0001b83d       0xf5 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf8.o)
+
+.debug_abbrev   0x00000000     0x509d
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5f citra_img.o
+ .debug_abbrev  0x0000005f       0x5f dice_img.o
+ .debug_abbrev  0x000000be      0x1d1 main.o
+ .debug_abbrev  0x0000028f      0x3ed /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+ .debug_abbrev  0x0000067c      0x1a2 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_draw.o)
+ .debug_abbrev  0x0000081e      0x228 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+ .debug_abbrev  0x00000a46      0x3ff /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+ .debug_abbrev  0x00000e45      0x30f /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+ .debug_abbrev  0x00001154      0x286 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+ .debug_abbrev  0x000013da      0x2fe /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+ .debug_abbrev  0x000016d8      0x320 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+ .debug_abbrev  0x000019f8      0x2cd /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+ .debug_abbrev  0x00001cc5      0x3a9 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+ .debug_abbrev  0x0000206e       0x61 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpuResetSequence.o)
+ .debug_abbrev  0x000020cf      0x25f /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+ .debug_abbrev  0x0000232e      0x246 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+ .debug_abbrev  0x00002574      0x4aa /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+ .debug_abbrev  0x00002a1e      0x344 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+ .debug_abbrev  0x00002d62       0xf9 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+ .debug_abbrev  0x00002e5b      0x35f /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+ .debug_abbrev  0x000031ba      0x2b5 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+ .debug_abbrev  0x0000346f       0xec /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+ .debug_abbrev  0x0000355b       0xb0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_init.o)
+ .debug_abbrev  0x0000360b      0x21d /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+ .debug_abbrev  0x00003828      0x205 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+ .debug_abbrev  0x00003a2d      0x170 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+ .debug_abbrev  0x00003b9d       0xea /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+ .debug_abbrev  0x00003c87       0xdb /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+ .debug_abbrev  0x00003d62      0x1f4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+ .debug_abbrev  0x00003f56       0x14 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(svc.o)
+ .debug_abbrev  0x00003f6a       0x14 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o)
+ .debug_abbrev  0x00003f7e      0x26d /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+ .debug_abbrev  0x000041eb      0x163 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+ .debug_abbrev  0x0000434e       0xad /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appExit.o)
+ .debug_abbrev  0x000043fb       0xdc /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appInit.o)
+ .debug_abbrev  0x000044d7      0x116 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(ctru_exit.o)
+ .debug_abbrev  0x000045ed      0x3fa /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+ .debug_abbrev  0x000049e7      0x2d3 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+ .debug_abbrev  0x00004cba       0x7f /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+ .debug_abbrev  0x00004d39      0x102 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o)
+ .debug_abbrev  0x00004e3b      0x102 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o)
+ .debug_abbrev  0x00004f3d       0x8e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
+ .debug_abbrev  0x00004fcb       0x69 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf16.o)
+ .debug_abbrev  0x00005034       0x69 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf8.o)
+
+.debug_line     0x00000000     0x7f65
+ *(.debug_line)
+ .debug_line    0x00000000       0x6d citra_img.o
+ .debug_line    0x0000006d       0x6c dice_img.o
+ .debug_line    0x000000d9      0x299 main.o
+ .debug_line    0x00000372      0x453 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+ .debug_line    0x000007c5      0x38c /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_draw.o)
+ .debug_line    0x00000b51      0x318 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+ .debug_line    0x00000e69      0xa3b /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+ .debug_line    0x000018a4      0x2db /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+ .debug_line    0x00001b7f      0x356 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+ .debug_line    0x00001ed5      0x2d8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+ .debug_line    0x000021ad      0x34d /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+ .debug_line    0x000024fa      0x2c7 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+ .debug_line    0x000027c1      0x50f /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+ .debug_line    0x00002cd0      0x171 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpuResetSequence.o)
+ .debug_line    0x00002e41      0x3ad /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+ .debug_line    0x000031ee      0x358 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+ .debug_line    0x00003546      0x868 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+ .debug_line    0x00003dae      0x411 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+ .debug_line    0x000041bf      0x273 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+ .debug_line    0x00004432      0x33b /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+ .debug_line    0x0000476d      0x2aa /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+ .debug_line    0x00004a17      0x1f6 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+ .debug_line    0x00004c0d      0x1e4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_init.o)
+ .debug_line    0x00004df1      0x2ae /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+ .debug_line    0x0000509f      0x34f /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+ .debug_line    0x000053ee      0x23f /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+ .debug_line    0x0000562d      0x19c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+ .debug_line    0x000057c9      0x1c9 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+ .debug_line    0x00005992      0x170 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+ .debug_line    0x00005b02      0x165 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(svc.o)
+ .debug_line    0x00005c67       0x9f /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o)
+ .debug_line    0x00005d06      0x2cf /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+ .debug_line    0x00005fd5      0x1c9 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+ .debug_line    0x0000619e      0x1fb /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appExit.o)
+ .debug_line    0x00006399      0x1fb /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appInit.o)
+ .debug_line    0x00006594      0x192 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(ctru_exit.o)
+ .debug_line    0x00006726      0x667 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+ .debug_line    0x00006d8d      0x66c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+ .debug_line    0x000073f9      0x1bf /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+ .debug_line    0x000075b8      0x263 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o)
+ .debug_line    0x0000781b      0x259 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o)
+ .debug_line    0x00007a74      0x192 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
+ .debug_line    0x00007c06      0x19c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf16.o)
+ .debug_line    0x00007da2      0x1c3 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf8.o)
+
+.debug_frame    0x00000000     0x2fa0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x6c main.o
+ .debug_frame   0x0000006c      0x1ec /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+ .debug_frame   0x00000258       0xe4 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_draw.o)
+ .debug_frame   0x0000033c      0x158 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+ .debug_frame   0x00000494      0x5b8 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+ .debug_frame   0x00000a4c       0xc0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+ .debug_frame   0x00000b0c       0xa8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+ .debug_frame   0x00000bb4       0xb4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+ .debug_frame   0x00000c68      0x16c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+ .debug_frame   0x00000dd4       0xd4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+ .debug_frame   0x00000ea8      0x4ec /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+ .debug_frame   0x00001394      0x16c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+ .debug_frame   0x00001500       0xa4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+ .debug_frame   0x000015a4      0x684 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+ .debug_frame   0x00001c28      0x27c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+ .debug_frame   0x00001ea4       0xf0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+ .debug_frame   0x00001f94      0x1f8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+ .debug_frame   0x0000218c      0x120 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+ .debug_frame   0x000022ac       0x30 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+ .debug_frame   0x000022dc       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_init.o)
+ .debug_frame   0x000022fc       0x54 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+ .debug_frame   0x00002350       0x38 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+ .debug_frame   0x00002388       0x2c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+ .debug_frame   0x000023b4       0x34 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+ .debug_frame   0x000023e8       0x2c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+ .debug_frame   0x00002414       0x2c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+ .debug_frame   0x00002440      0x158 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+ .debug_frame   0x00002598       0x30 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+ .debug_frame   0x000025c8       0x2c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appExit.o)
+ .debug_frame   0x000025f4       0x2c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appInit.o)
+ .debug_frame   0x00002620       0x28 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(ctru_exit.o)
+ .debug_frame   0x00002648      0x3c4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+ .debug_frame   0x00002a0c      0x484 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+ .debug_frame   0x00002e90       0x30 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+ .debug_frame   0x00002ec0       0x3c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o)
+ .debug_frame   0x00002efc       0x3c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o)
+ .debug_frame   0x00002f38       0x28 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
+ .debug_frame   0x00002f60       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf16.o)
+ .debug_frame   0x00002f80       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf8.o)
+
+.debug_str      0x00000000     0x5ef1
+ *(.debug_str)
+ .debug_str     0x00000000       0xfa citra_img.o
+                                0x117 (size before relaxing)
+ .debug_str     0x000000fa       0x55 dice_img.o
+                                0x115 (size before relaxing)
+ .debug_str     0x0000014f      0x4e8 main.o
+                                0x62b (size before relaxing)
+ .debug_str     0x00000637      0xd25 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+                                0xf2b (size before relaxing)
+ .debug_str     0x0000135c      0x276 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_draw.o)
+                                0x425 (size before relaxing)
+ .debug_str     0x000015d2      0x130 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+                                0x3f5 (size before relaxing)
+ .debug_str     0x00001702      0x5e3 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+                                0xb40 (size before relaxing)
+ .debug_str     0x00001ce5      0x46f /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+                                0x5c5 (size before relaxing)
+ .debug_str     0x00002154       0x96 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+                                0x459 (size before relaxing)
+ .debug_str     0x000021ea       0x7e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+                                0x594 (size before relaxing)
+ .debug_str     0x00002268      0x553 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+                                0x78a (size before relaxing)
+ .debug_str     0x000027bb      0x4cd /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+                                0x6c5 (size before relaxing)
+ .debug_str     0x00002c88      0x582 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+                                0xe83 (size before relaxing)
+ .debug_str     0x0000320a       0x59 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpuResetSequence.o)
+                                0x1ab (size before relaxing)
+ .debug_str     0x00003263      0x143 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+                                0x5da (size before relaxing)
+ .debug_str     0x000033a6      0x13e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+                                0x47c (size before relaxing)
+ .debug_str     0x000034e4      0xbfb /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+                                0xf4d (size before relaxing)
+ .debug_str     0x000040df      0x24b /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+                                0x74a (size before relaxing)
+ .debug_str     0x0000432a       0xd8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+                                0x2e5 (size before relaxing)
+ .debug_str     0x00004402      0x309 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+                                0x74e (size before relaxing)
+ .debug_str     0x0000470b      0x137 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+                                0x46b (size before relaxing)
+ .debug_str     0x00004842       0x61 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+                                0x215 (size before relaxing)
+ .debug_str     0x000048a3       0x5c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_init.o)
+                                0x20b (size before relaxing)
+ .debug_str     0x000048ff      0x100 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+                                0x2cd (size before relaxing)
+ .debug_str     0x000049ff       0x93 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+                                0x2eb (size before relaxing)
+ .debug_str     0x00004a92       0x5e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+                                0x262 (size before relaxing)
+ .debug_str     0x00004af0      0x17e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+                                0x32b (size before relaxing)
+ .debug_str     0x00004c6e       0xa8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+                                0x1ee (size before relaxing)
+ .debug_str     0x00004d16      0x182 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+                                0x6e7 (size before relaxing)
+ .debug_str     0x00004e98      0x178 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+                                0x381 (size before relaxing)
+ .debug_str     0x00005010       0x7c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+                                0x215 (size before relaxing)
+ .debug_str     0x0000508c       0x6d /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appExit.o)
+                                0x1b4 (size before relaxing)
+ .debug_str     0x000050f9       0x6d /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appInit.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00005166       0x73 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(ctru_exit.o)
+                                0x332 (size before relaxing)
+ .debug_str     0x000051d9      0x8d1 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+                                0xef9 (size before relaxing)
+ .debug_str     0x00005aaa      0x1e5 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+                                0x6d0 (size before relaxing)
+ .debug_str     0x00005c8f       0x71 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+                                0x1cf (size before relaxing)
+ .debug_str     0x00005d00       0x7c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o)
+                                0x202 (size before relaxing)
+ .debug_str     0x00005d7c       0x68 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o)
+                                0x202 (size before relaxing)
+ .debug_str     0x00005de4       0x5a /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
+                                0x1c7 (size before relaxing)
+ .debug_str     0x00005e3e       0x5a /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf16.o)
+                                0x1bb (size before relaxing)
+ .debug_str     0x00005e98       0x59 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf8.o)
+                                0x1b7 (size before relaxing)
+
+.debug_loc      0x00000000     0xf05c
+ *(.debug_loc)
+ .debug_loc     0x00000000       0xc9 main.o
+ .debug_loc     0x000000c9      0x26d /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+ .debug_loc     0x00000336      0x605 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_draw.o)
+ .debug_loc     0x0000093b      0x410 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+ .debug_loc     0x00000d4b     0x3c7d /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+ .debug_loc     0x000049c8      0x309 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+ .debug_loc     0x00004cd1      0x95b /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+ .debug_loc     0x0000562c      0x304 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+ .debug_loc     0x00005930      0x464 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+ .debug_loc     0x00005d94      0x23d /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+ .debug_loc     0x00005fd1     0x14e6 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+ .debug_loc     0x000074b7      0x67f /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+ .debug_loc     0x00007b36      0x410 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+ .debug_loc     0x00007f46     0x1846 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+ .debug_loc     0x0000978c      0xd25 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+ .debug_loc     0x0000a4b1      0x38a /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+ .debug_loc     0x0000a83b      0x765 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+ .debug_loc     0x0000afa0      0x39c /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+ .debug_loc     0x0000b33c      0x10d /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+ .debug_loc     0x0000b449      0x382 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+ .debug_loc     0x0000b7cb      0x506 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+ .debug_loc     0x0000bcd1       0x8e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+ .debug_loc     0x0000bd5f       0xfb /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+ .debug_loc     0x0000be5a       0x21 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+ .debug_loc     0x0000be7b      0x41e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+ .debug_loc     0x0000c299      0x2b2 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+ .debug_loc     0x0000c54b       0x21 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(ctru_exit.o)
+ .debug_loc     0x0000c56c     0x124d /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+ .debug_loc     0x0000d7b9     0x110f /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+ .debug_loc     0x0000e8c8      0x232 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+ .debug_loc     0x0000eafa      0x125 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o)
+ .debug_loc     0x0000ec1f       0xf3 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o)
+ .debug_loc     0x0000ed12       0xc4 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
+ .debug_loc     0x0000edd6       0xdc /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf16.o)
+ .debug_loc     0x0000eeb2      0x1aa /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf8.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+LOAD /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/3dsx_crt0.o
+LOAD /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crti.o
+LOAD /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtbegin.o
+LOAD citra_img.o
+LOAD dice_img.o
+LOAD main.o
+LOAD /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a
+LOAD /Users/andreuschmann/devkitPro/libctru/lib/libctru.a
+LOAD /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a
+START GROUP
+LOAD /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/libgcc.a
+LOAD /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a
+LOAD /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libc.a
+LOAD /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a
+END GROUP
+LOAD /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtend.o
+LOAD /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtn.o
+OUTPUT(/Users/andreuschmann/homebrew/3ds/projects/sf2dlib/sample/sf2d_sample.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x32
+ .ARM.attributes
+                0x00000000       0x1e /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/3dsx_crt0.o
+ .ARM.attributes
+                0x0000001e       0x1c /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crti.o
+ .ARM.attributes
+                0x0000003a       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtbegin.o
+ .ARM.attributes
+                0x0000006c       0x2e citra_img.o
+ .ARM.attributes
+                0x0000009a       0x2e dice_img.o
+ .ARM.attributes
+                0x000000c8       0x2e main.o
+ .ARM.attributes
+                0x000000f6       0x32 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+ .ARM.attributes
+                0x00000128       0x32 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_draw.o)
+ .ARM.attributes
+                0x0000015a       0x32 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+ .ARM.attributes
+                0x0000018c       0x32 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+ .ARM.attributes
+                0x000001be       0x14 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(shader.vsh.o)
+ .ARM.attributes
+                0x000001d2       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+ .ARM.attributes
+                0x00000200       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+ .ARM.attributes
+                0x0000022e       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+ .ARM.attributes
+                0x0000025c       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+ .ARM.attributes
+                0x0000028a       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+ .ARM.attributes
+                0x000002b8       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+ .ARM.attributes
+                0x000002e6       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpuResetSequence.o)
+ .ARM.attributes
+                0x00000314       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+ .ARM.attributes
+                0x00000342       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+ .ARM.attributes
+                0x00000370       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+ .ARM.attributes
+                0x0000039e       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+ .ARM.attributes
+                0x000003cc       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gx.o)
+ .ARM.attributes
+                0x000003fa       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(hid.o)
+ .ARM.attributes
+                0x00000428       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+ .ARM.attributes
+                0x00000456       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+ .ARM.attributes
+                0x00000484       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_init.o)
+ .ARM.attributes
+                0x000004b2       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+ .ARM.attributes
+                0x000004e0       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+ .ARM.attributes
+                0x0000050e       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+ .ARM.attributes
+                0x0000053c       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(allocateHeaps.o)
+ .ARM.attributes
+                0x0000056a       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initArgv.o)
+ .ARM.attributes
+                0x00000598       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(initSystem.o)
+ .ARM.attributes
+                0x000005c6       0x1a /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(svc.o)
+ .ARM.attributes
+                0x000005e0       0x1a /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(stack_adjust.o)
+ .ARM.attributes
+                0x000005fa       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(srv.o)
+ .ARM.attributes
+                0x00000628       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+ .ARM.attributes
+                0x00000656       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appExit.o)
+ .ARM.attributes
+                0x00000684       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(appInit.o)
+ .ARM.attributes
+                0x000006b2       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(ctru_exit.o)
+ .ARM.attributes
+                0x000006e0       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+ .ARM.attributes
+                0x0000070e       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(fs.o)
+ .ARM.attributes
+                0x0000073c       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+ .ARM.attributes
+                0x0000076a       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf16_to_utf8.o)
+ .ARM.attributes
+                0x00000798       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(utf8_to_utf16.o)
+ .ARM.attributes
+                0x000007c6       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
+ .ARM.attributes
+                0x000007f4       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf16.o)
+ .ARM.attributes
+                0x00000822       0x2e /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(encode_utf8.o)
+ .ARM.attributes
+                0x00000850       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_cos.o)
+ .ARM.attributes
+                0x00000882       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_sin.o)
+ .ARM.attributes
+                0x000008b4       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-ef_rem_pio2.o)
+ .ARM.attributes
+                0x000008e6       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_cos.o)
+ .ARM.attributes
+                0x00000918       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_rem_pio2.o)
+ .ARM.attributes
+                0x0000094a       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-kf_sin.o)
+ .ARM.attributes
+                0x0000097c       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_fabs.o)
+ .ARM.attributes
+                0x000009ae       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_floor.o)
+ .ARM.attributes
+                0x000009e0       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_scalbn.o)
+ .ARM.attributes
+                0x00000a12       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libm.a(lib_a-sf_copysign.o)
+ .ARM.attributes
+                0x00000a44       0x1c /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000a60       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-bsearch.o)
+ .ARM.attributes
+                0x00000a92       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000ac4       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000af6       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000b28       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000b5a       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000b8c       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000bbe       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000bf0       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-rand.o)
+ .ARM.attributes
+                0x00000c22       0x1a /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000c3c       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x00000c6e       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000ca0       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncat.o)
+ .ARM.attributes
+                0x00000cd2       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000d04       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-time.o)
+ .ARM.attributes
+                0x00000d36       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000d68       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(iosupport.o)
+ .ARM.attributes
+                0x00000d9a       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(gettod.o)
+ .ARM.attributes
+                0x00000dcc       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(sbrk.o)
+ .ARM.attributes
+                0x00000dfe       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(malloc_vars.o)
+ .ARM.attributes
+                0x00000e30       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(chdir.o)
+ .ARM.attributes
+                0x00000e62       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(syscall_support.o)
+ .ARM.attributes
+                0x00000e94       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libsysbase.a(getreent.o)
+ .ARM.attributes
+                0x00000ec6       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000ef8       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x00000f2a       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x00000f5c       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strnlen.o)
+ .ARM.attributes
+                0x00000f8e       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/../../../../arm-none-eabi/lib/armv6k/fpu/libg.a(lib_a-strrchr.o)
+ .ARM.attributes
+                0x00000fc0       0x32 /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtend.o
+ .ARM.attributes
+                0x00000ff2       0x1c /Users/andreuschmann/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/4.9.2/armv6k/fpu/crtn.o
+
+.debug_ranges   0x00000000      0xb40
+ .debug_ranges  0x00000000       0x10 main.o
+ .debug_ranges  0x00000010       0x50 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d.o)
+ .debug_ranges  0x00000060       0x80 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_private.o)
+ .debug_ranges  0x000000e0      0x140 /Users/andreuschmann/devkitPro/libctru/lib/libsf2d.a(sf2d_texture.o)
+ .debug_ranges  0x00000220       0x70 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(linear.o)
+ .debug_ranges  0x00000290      0x1d8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(mem_pool.o)
+ .debug_ranges  0x00000468       0x78 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(vram.o)
+ .debug_ranges  0x000004e0       0x90 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gfx.o)
+ .debug_ranges  0x00000570       0x48 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(os.o)
+ .debug_ranges  0x000005b8       0xc0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gpu.o)
+ .debug_ranges  0x00000678       0x58 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shaderProgram.o)
+ .debug_ranges  0x000006d0       0x38 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(shbin.o)
+ .debug_ranges  0x00000708       0xf0 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(apt.o)
+ .debug_ranges  0x000007f8       0x40 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(gsp.o)
+ .debug_ranges  0x00000838       0x18 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(irrst.o)
+ .debug_ranges  0x00000850       0x20 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_find.o)
+ .debug_ranges  0x00000870      0x110 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_insert.o)
+ .debug_ranges  0x00000980       0xf8 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_remove.o)
+ .debug_ranges  0x00000a78       0x30 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_rotate.o)
+ .debug_ranges  0x00000aa8       0x30 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(rbtree_iterator.o)
+ .debug_ranges  0x00000ad8       0x48 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(sdmc_dev.o)
+ .debug_ranges  0x00000b20       0x10 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf8.o)
+ .debug_ranges  0x00000b30       0x10 /Users/andreuschmann/devkitPro/libctru/lib/libctru.a(decode_utf16.o)
